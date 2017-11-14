@@ -48,7 +48,7 @@ function isQuestionChecked() {
 	}
 	var valorSelecionado = selectedOption.value;
 	if (questions[lista_sorteados[currentQuestion]].answer == valorSelecionado) {
-		alert('Resposta Exata');
+		alert('Respuesta correcta');
 
 		score += score_pergunta_atual;
 		
@@ -60,9 +60,9 @@ function isQuestionChecked() {
 			atualizaPontuacao();
 		}
 	} else {
-		alert('Resposta Errada');
+		alert('Respuesta equivocada');
 		
-		alert('Tente outra vez!');
+		alert('¡Intente otra vez!');
 
 		// exibe a imagem que eh a dica
 		var ct_img = document.getElementById('ct-dica');

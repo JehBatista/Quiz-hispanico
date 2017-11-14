@@ -14,16 +14,16 @@ var questions = [{
     "option3": "Lima",
     "option4": "Quito",
     "answer":"3",
-    "imagem": "lima.jpg",
+    "imagem": "cidadedelima.jpg",
     "desc_imagem": ""
 }, {
-    "question": "¿Dónde está ubicado el Monasterio de Santa Catalina de Siena, también conocido como Convento Santa Catalina?",
+    "question": "¿Dónde está ubicado el 'Monasterio de Santa Catalina de Siena', también conocido como 'Convento Santa Catalina'?",
     "option1": "Buenos Aires, Argentina",
     "option2": "La paz, Bolivia",
     "option3": "Aragua, Paraguay",
     "option4": "Arequipa, Perú",
     "answer":"4",
-    "imagem":"peru.jpg",
+    "imagem":"santacata.jpg",
     "desc_imagem": ""
 
 }, {
@@ -37,13 +37,13 @@ var questions = [{
     "desc_imagem": ""
 
 }, {
-    "question": "¿Dónde están ubicadas las Líneas de Nazca? ",
+    "question": "¿Dónde están ubicadas las 'Líneas de Nazca'? ",
     "option1": "Sur de México",
     "option2": "Norte de Argentina",
     "option3": "Sur de Lima",
     "option4": "Sur de Brasil",
     "answer":"3",
-    "imagem":"sur.jpg",
+    "imagem":"linhas.jpg",
     "desc_imagem": ""
 
 }, {
@@ -64,12 +64,12 @@ var questions = [{
     "option3": "Siglo XXI",
     "option4": "Siglo XIII",
     "answer":"2",
-    "imagem":"v.jpg",
+    "imagem":"PicchuPeru.jpg",
     "desc_imagem": ""
 
 }, {
-"question":"¿En cuál de estos lugares se hizo uno de los episodios más famosos de la serie El Chavo del ocho?",
-    "option1": " Cancun",
+"question":"¿En cuál de estos lugares se hizo uno de los episodios más famosos de la serie 'El Chavo del ocho'?",
+    "option1": " Cancún",
     "option2": "Acapulco",
     "option3": "Cabo San Lucas",
     "option4": "Vera Cruz",
@@ -84,17 +84,17 @@ var questions = [{
     "option3": "Lucha libre",
     "option4": "WWE",
     "answer":"3",
-    "imagem":"livre.jpg",
+    "imagem":"lutalivre.jpg",
     "desc_imagem": ""
 
 }, {
-    "question": "¿Cuál es la residencia oficial del Rey de España aunque solo use para ceremonias del estado?",
+    "question": "¿Cuál es la residencia oficial del Rey de España aunque sólo use para ceremonias del estado?",
     "option1": "Torre Eiffel",
     "option2": "Museo Nacional de Arte de Cataluña",
     "option3": "Palacio Real de Madrid",
     "option4": "Cristo Redentor",
     "answer":"3",
-    "imagem":"palacio.jpg",
+    "imagem":"PalacioReal.jpg",
     "desc_imagem": ""
 
 
@@ -125,17 +125,17 @@ var questions = [{
     "option3": "Raúl Castro",
     "option4": "José Mujica",
     "answer":"4",
-     "imagem":"jose.jpg",
+     "imagem":"josemujica.jpg",
     "desc_imagem": ""
 
 }, {
-    "question": "¿En qué día se celebra la Noche de Reyes en España?",
+    "question": "¿En qué día se celebra la 'Noche de Reyes' en España?",
     "option1": "25 de diciembre",
     "option2": "6 de enero",
     "option3": "6 de abril",
     "option4": "26 de diciembre",
     "answer":"2",
-    "imagem":"seis.jpg",
+    "imagem":"reys.jpg",
     "desc_imagem": ""
 
 }, {
@@ -145,22 +145,22 @@ var questions = [{
     "option3": "México",
     "option4": "Guatemala",
     "answer":"2",
-   "imagem":"portorico.jpg",
+   "imagem":"menudos.jpg",
    "desc_imagem": ""
 
 }, {
-    "question": "¿En qué país está localizada la piscina más grande del mundo?",
+    "question": "¿En qué país está ubicada la piscina más grande del mundo?",
     "option1": "Brasil",
     "option2": "Argentina",
     "option3": "Chile",
     "option4": "Perú",
     "answer":"3",
-   "imagem":"chile.jpg",
+   "imagem":"piscina.jpg",
    "desc_imagem": ""
 
 
 }, {
-    "question": " ¿En qué país se celebra la fiesta del Día de Muertos?",
+    "question": " ¿En qué país se celebra la 'Fiesta del Día de Muertos'?",
     "option1": "Colombia",
     "option2": "Brasil",
     "option3": "Chile",
@@ -176,7 +176,7 @@ var questions = [{
     "option3": "Chile",
     "option4": "Ecuador",
     "answer":"3",
-    "imagem":"simbolochile.jpg",
+    "imagem":"estrecho.jpg",
     "desc_imagem": ""
 
 
@@ -187,7 +187,7 @@ var questions = [{
     "option3": "Salar de Uyuni",
     "option4": "Desierto del Sahara",
     "answer":"1",
-    "imagem":"atacama.jpg",
+    "imagem":"desertoatacama.jpg",
     "desc_imagem": ""
 
 
@@ -198,7 +198,7 @@ var questions = [{
     "option3": "La dama de la Alegría",
     "option4": "La dama de la Muerte",
     "answer":"4",
-    "imagem":"muerte.jpg",
+    "imagem":"damaa.jpg",
     "desc_imagem": ""
 }, {
     "question": "¿Quién es el creador de Mafalda?",
@@ -217,39 +217,39 @@ var questions = [{
     "option3": "Madrid,España",
     "option4": "Santiago, Chile",
     "answer":"3",
-    "imagem":"espanha.jpg",
+    "imagem":"Prado.jpg",
     "desc_imagem": ""
 
 }, {
-    "question": "En Venezuela, arepa es",
+    "question": "En Venezuela, arepa es:",
     "option1": "un pan",
     "option2": "un dulce",
     "option3": "una bebida",
     "option4": "una fruta",
     "answer":"1",
-    "imagem":"pao.jpg",
+    "imagem":"arepa.jpg",
     "desc_imagem": ""
 
 
 }, {
-    "question": "¿En qué año se descubrió petróleo en Venezuela?",
+    "question": "¿En qué año se descubrió petroleo en Venezuela?",
     "option1": "1918",
     "option2": "1917",
     "option3": "1829",
     "option4": "1820",
     "answer":"2",
-     "imagem":"milnove.jpg",
+     "imagem":"pre.jpg",
     "desc_imagem": ""
 
 }, {
 
-"question": "¿Puchero es un plato típico de qué país?",
+"question": "¿'Puchero' es un plato típico de qué país?",
     "option1": "Paraguay",
     "option2": "Uruguay",
-    "option3": "Bolívia",
+    "option3": "Bolivia",
     "option4": "Venezuela",
     "answer":"2",
-     "imagem":"urugua.jpg",
+     "imagem":"puchi.jpg",
     "desc_imagem": ""
 }, {
 
@@ -259,7 +259,7 @@ var questions = [{
     "option3": "Durante 30 días",
     "option4": "Durante 40 días",
     "answer":"4",
-    "imagem":"quarenta.jpg",
+    "imagem":"carnavaluru.jpg",
     "desc_imagem": ""
 
 
@@ -287,7 +287,7 @@ var questions = [{
 
 }, {
 
-"question": " ¿Cuál de estos cantantes se destacó con el tango “La cumparsita?",
+"question": " ¿Cuál de estos cantantes se destacó con el tango 'La cumparsita'?",
     "option1": "Carlos Gardel",
     "option2": "Julio Iglesias",
     "option3": "Maná Gardel",
@@ -304,14 +304,14 @@ var questions = [{
     "option3": "México",
     "option4": "Argentina",
     "answer":"4",
-     "imagem":"argentina.jpg",
+     "imagem":"Alfajor.jpg",
     "desc_imagem": ""
 
 }, {
 
 "question": "¿Cuál de estas ciudades está ubicada en Argentina?",
     "option1": "Puno",
-    "option2": "Rosário",
+    "option2": "Rosario",
     "option3": "La Paz",
     "option4": "Montevideo",
     "answer":"2",
@@ -332,19 +332,19 @@ var questions = [{
     
 }, {
 
-"question": "¿Qué origen tiene el escudo de armas en el centro de la bandera mexica?",
+"question": "¿Qué origen tiene el escudo de armas en el centro de la bandera mexicana?",
     "option1": "Una película",
     "option2": "Una fábula",
     "option3": "Una leyenda",
     "option4": "Una novela",
     "answer":"3",
-    "imagem":"lenda.jpg",
+    "imagem":"bad.jpg",
     "desc_imagem": ""
 
 }, {
 
 "question": "¿En qué país se originó el chocolate?",
-    "option1": "Bolívia",
+    "option1": "Bolivia",
     "option2": "México",
     "option3": "Paraguay",
     "option4": "Uruguay",
@@ -371,11 +371,11 @@ var questions = [{
     "option3": "29 del octubre",
     "option4": "12 del abril",
     "answer":"2",
-    "imagem":"abril.jpg",
+    "imagem":"ninho.jpg",
     "desc_imagem": ""
  }, {
 
-"question": "¿Qué lugar es conocido como La Mitad del Mundo?",
+"question": "¿Qué lugar es conocido como 'La Mitad del Mundo'?",
     "option1": "Quito",
     "option2": "Cuenca",
     "option3": "Ambato",
@@ -386,18 +386,18 @@ var questions = [{
  
 }, {
 
-"question": "¿Qué significa “gafas” en español?",
+"question": "¿Qué significa 'gafas' en español?",
     "option1": "garrafa",
     "option2": "gafanhoto",
     "option3": "óculos",
     "option4": "gravata",
     "answer":"3",
-    "imagem":"oculos.jpg",
+    "imagem":"ocu.jpg",
     "desc_imagem": ""
  
 }, {
 
-"question": "¿Cuál de estas obra fue escrita por Miguel de Cervantes?",
+"question": "¿Cuál de estas obras fue escrita por Miguel de Cervantes?",
     "option1": "Don Quijote de la Mancha",
     "option2": "Cien años de soledad",
     "option3": "Rayuela",
@@ -419,8 +419,8 @@ var questions = [{
  
 }, {
 
-"question": "¿Qué medio de transporte es conocido como “escarabajo” en español?",
-    "option1": "Bicleta",
+"question": "¿Qué medio de transporte es conocido como 'escarabajo' en español?",
+    "option1": "Bicicleta",
     "option2": "Ómnibus",
     "option3": "El Fusca",
     "option4": "Avión ",
@@ -436,18 +436,18 @@ var questions = [{
     "option3": "Catalán, gallego y quechua",
     "option4": "Catalán, gallego y aymará",
     "answer":"1",
-     "imagem":"vasco.jpg",
+     "imagem":"catalan.jpg",
     "desc_imagem": ""
 
 }, {
 
-"question": "¿Dónde está ubicada la Casa Rosada?",
+"question": "¿Dónde está ubicada la 'Casa Rosada'?",
     "option1": "Asunción, en Paraguay",
     "option2": "Buenos Aires, Argentina",
     "option3": "Quito, en Ecuador",
     "option4": "Caracas, en Venezuela",
-    "answer":"3",
-     "imagem":"equador.jpg",
+    "answer":"2",
+     "imagem":"casaaa.jpg",
     "desc_imagem": ""
 
 
@@ -459,12 +459,12 @@ var questions = [{
     "option3": "una planta",
     "option4": "un animal",
     "answer":"2",
-     "imagem":"vulcão.jpg",
+     "imagem":"chimbarozo.jpg",
     "desc_imagem": ""
 
 }, {
 
-"question": "¿Cuál es la ciudad argentina conocida como “La ciudad del fin del mundo o La ciudad más austral del mundo” ?",
+"question": "¿Cuál es la ciudad argentina conocida como 'La ciudad del fin del mundo' o 'La ciudad más austral del mundo' ?",
     "option1": "Ushuaia",
     "option2": "Mendoza",
     "option3": "Córdoba",
@@ -481,7 +481,7 @@ var questions = [{
     "option3": "Un famoso rey catalán",
     "option4": "Un famoso actor catalán",
     "answer":"2",
-    "imagem":"arquite.jpg",
+    "imagem":"igrejasagrada.jpg",
     "desc_imagem": ""
 
 }, {
@@ -497,47 +497,47 @@ var questions = [{
 
 }, {
 
-"question": "¿Dónde se ubica el Salar de Uyuni?",
+"question": "¿Dónde se ubica el 'Salar de Uyuni'?",
     "option1": " Uruguay",
     "option2": "Argentina",
     "option3": "Paraguay",
-    "option4": "Bolívia",
+    "option4": "Bolivia",
     "answer":"4",
-    "imagem":"bolivia.jpg",
+    "imagem":"salarYU.jpg",
     "desc_imagem": ""
 
 }, {
 
-"question": "¿Dónde se ubica la Catedral de Sal?",
-    "option1":"Bolívia",
-    "option2":"Colômbia",
+"question": "¿Dónde se ubica la 'Catedral de Sal'?",
+    "option1":"Bolivia",
+    "option2":"Colombia",
     "option3":"Perú",
     "option4":"Ecuador",
     "answer":"2",
-    "imagem":"colombia.jpg",
+    "imagem":"catedralsal.jpg",
     "desc_imagem": ""
 
 
 }, {
 
-"question": "¿Mercedes Sosa, una importante cantante argentina, es intérprete y autora de la canción:?",
+"question": "Mercedes Sosa, una importante cantante argentina, ¿es intérprete y autora de qué canción?",
     "option1":"Volver a los diecisiete",
     "option2": "Volver a los dieciocho",
     "option3": "Volver a los quince",
     "option4": "Volver a los doce",
     "answer":"1",
-    "imagem":"dezessete.jpg",
+    "imagem":"Mercedes.jpg",
     "desc_imagem": ""
 
 }, {
 
-"question": "¿Pedro Almodóvar es un  director de cine español que produjo las películas:?",
+"question": "Pedro Almodóvar es un  director de cine español que produjo la película:",
     "option1": "El secreto de sus ojos",
     "option2": "Violeta se fue a los cielos",
-    "option3": "Volver, Hable con ella, Todo sobre mi madre",
+    "option3": "Volver",
     "option4": " Como agua para chocolate",
     "answer":"3",
-    "imagem":"volver.jpg",
+    "imagem":"volve.jpg",
     "desc_imagem": ""
 
 }, {
@@ -555,36 +555,36 @@ var questions = [{
 
 }, {
 
-"question": "¿Qué actor interpretó La máscara del Zorro  y La leyenda del Zorro en el cine?",
+"question": "¿Qué actor interpretó 'La máscara del Zorro' y 'La leyenda del Zorro' en el cine?",
     "option1": "Antonio Banderas",
     "option2": "Pedro Almodóvar",
     "option3": "Gael García Bernal",
     "option4": "Javier Bardem",
     "answer":"1",
-    "imagem":"antoni.jpg",
+    "imagem":"antonio.jpg",
     "desc_imagem": ""
 
 
 }, {
 
-"question":"¿Dónde está ubicado el Museo del Oro considerado uno de los más grandes del mundo?",
+"question":"¿Dónde está ubicado el 'Museo del Oro' considerado uno de los más grandes del mundo?",
     "option1": "Montevideo, en Uruguay",
     "option2": "Bogotá, en Colombia",
     "option3": "Santiago, en Chile",
     "option4": "Lima, en Perú",
     "answer":"2",
-     "imagem":"bogota.jpg",
+     "imagem":"museodel.jpg",
     "desc_imagem": ""
 
 }, {
 
-"question": "¿Qué pintor catalán pintó la obra “La persistencia de la memoria”, también conocida como “Los relojes blandos”?",
+"question": "¿Qué pintor catalán pintó las obras 'La persistencia de la memoria', también conocida como 'Los relojes blandos'?",
     "option1": "Fernando Botero",
     "option2": "Velázquez",
     "option3": "Francisco Goya",
     "option4": "Salvador Dalí",
     "answer":"4",
-     "imagem":"dali.jpg",
+     "imagem":"dalisalv.jpg",
     "desc_imagem": ""
 
 }, {
@@ -595,7 +595,7 @@ var questions = [{
     "option3": "Chichén Itzá",
     "option4": "Éfeso ",
     "answer":"3",
-     "imagem":"chi.jpg",
+     "imagem":"itza.jpg",
     "desc_imagem": ""
 
 }, {
@@ -618,30 +618,30 @@ var questions = [{
     "option3": "Una cantante mexicana",
     "option4": "Una escritora mexicana",
     "answer":"1",
-    "imagem":"frida.jpg",
+    "imagem":"pinturafidra.jpg",
     "desc_imagem": ""
 
 
  }, {   
 
-"question": " 'chiapa' en mexico es una marca de",
-    "option1": "cafe",
+"question": " 'Juan Valdez' es una marca de:",
+    "option1": "café",
     "option2": "ropa",
-    "option3": "alimento",
-    "option4": "calzado",
+    "option3": "bolso",
+    "option4": "zapato",
     "answer":"1",
     "imagem":"chiapas.jpg",
     "desc_imagem": ""
 
  }, { 
 
-"question": " 'falda' en español significa:",
+"question": " 'Falda' en español significa:",
     "option1": "calça",
     "option2": "blusa",
     "option3": "saia",
     "option4": "camiseta",
     "answer":"3",
-    "imagem":"saia.jpg",
+    "imagem":"saiona.jpg",
     "desc_imagem": ""
 
 
