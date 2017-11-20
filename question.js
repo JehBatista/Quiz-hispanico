@@ -5,7 +5,7 @@ var questions = [{
     "option3": "Llama y oso",
     "option4": "Cuy y lobo",
     "answer":"2",
-    "imagem": "Llama.jpg",
+    "imagem": "img/Llama.jpg",
     "desc_imagem": ""
 }, {
     "question": "¿Cuál es la capital de Perú?",
@@ -14,7 +14,7 @@ var questions = [{
     "option3": "Lima",
     "option4": "Quito",
     "answer":"3",
-    "imagem": "cidadedelima.jpg",
+    "imagem": "img/cidadedelima.jpg",
     "desc_imagem": ""
 }, {
     "question": "¿Dónde está ubicado el 'Monasterio de Santa Catalina de Siena', también conocido como 'Convento Santa Catalina'?",
@@ -23,7 +23,7 @@ var questions = [{
     "option3": "Aragua, Paraguay",
     "option4": "Arequipa, Perú",
     "answer":"4",
-    "imagem":"santacata.jpg",
+    "imagem": "img/santacata.jpg",
     "desc_imagem": ""
 
 }, {
@@ -33,7 +33,7 @@ var questions = [{
     "option3": "Beru",
     "option4": "Piru",
     "answer":"1",
-    "imagem":"biru.jpg",
+    "imagem": "img/biru.jpg",
     "desc_imagem": ""
 
 }, {
@@ -43,7 +43,7 @@ var questions = [{
     "option3": "Sur de Lima",
     "option4": "Sur de Brasil",
     "answer":"3",
-    "imagem":"linhas.jpg",
+    "imagem": "img/linhas.jpg",
     "desc_imagem": ""
 
 }, {
@@ -53,7 +53,7 @@ var questions = [{
     "option3": "Perú cola",
     "option4": "Nova cola",
     "answer":"1",
-    "imagem":"inka.jpg",
+    "imagem": "img/inka.jpg",
     "desc_imagem": ""
 
 
@@ -64,7 +64,7 @@ var questions = [{
     "option3": "Siglo XXI",
     "option4": "Siglo XIII",
     "answer":"2",
-    "imagem":"PicchuPeru.jpg",
+    "imagem": "img/PicchuPeru.jpg",
     "desc_imagem": ""
 
 }, {
@@ -74,7 +74,7 @@ var questions = [{
     "option3": "Cabo San Lucas",
     "option4": "Vera Cruz",
     "answer":"2",
-    "imagem":"acapulco.jpg",
+    "imagem": "img/acapulco.jpg",
     "desc_imagem": ""
 
 }, {
@@ -84,7 +84,7 @@ var questions = [{
     "option3": "Lucha libre",
     "option4": "WWE",
     "answer":"3",
-    "imagem":"lutalivre.jpg",
+    "imagem": "img/lutalivre.jpg",
     "desc_imagem": ""
 
 }, {
@@ -94,7 +94,7 @@ var questions = [{
     "option3": "Palacio Real de Madrid",
     "option4": "Cristo Redentor",
     "answer":"3",
-    "imagem":"PalacioReal.jpg",
+    "imagem": "img/PalacioReal.jpg",
     "desc_imagem": ""
 
 
@@ -105,7 +105,7 @@ var questions = [{
     "option3": "Mote con huesillos",
     "option4": "Paella",
     "answer":"4",
-    "imagem":"paella.jpg",
+    "imagem": "img/paella.jpg",
     "desc_imagem": ""
     
 }, {
@@ -115,7 +115,7 @@ var questions = [{
     "option3": "Libra",
     "option4": "Guaraní",
     "answer":"2",
-    "imagem":"moeda.jpg",
+    "imagem": "img/moeda.jpg",
     "desc_imagem": ""
 
 }, {
@@ -125,7 +125,7 @@ var questions = [{
     "option3": "Raúl Castro",
     "option4": "José Mujica",
     "answer":"4",
-     "imagem":"josemujica.jpg",
+     "imagem": "img/josemujica.jpg",
     "desc_imagem": ""
 
 }, {
@@ -135,7 +135,7 @@ var questions = [{
     "option3": "6 de abril",
     "option4": "26 de diciembre",
     "answer":"2",
-    "imagem":"reys.jpg",
+    "imagem": "img/reys.jpg",
     "desc_imagem": ""
 
 }, {
@@ -145,7 +145,7 @@ var questions = [{
     "option3": "México",
     "option4": "Guatemala",
     "answer":"2",
-   "imagem":"menudos.jpg",
+   "imagem": "img/menudos.jpg",
    "desc_imagem": ""
 
 }, {
@@ -155,7 +155,7 @@ var questions = [{
     "option3": "Chile",
     "option4": "Perú",
     "answer":"3",
-   "imagem":"piscina.jpg",
+   "imagem": "img/piscina.jpg",
    "desc_imagem": ""
 
 
@@ -166,7 +166,7 @@ var questions = [{
     "option3": "Chile",
     "option4": "México",
     "answer":"4",
-    "imagem":"band.jpg",
+    "imagem": "img/band.jpg",
     "desc_imagem": ""
 
 }, {
@@ -176,7 +176,7 @@ var questions = [{
     "option3": "Chile",
     "option4": "Ecuador",
     "answer":"3",
-    "imagem":"estrecho.jpg",
+    "imagem": "img/estrecho.jpg",
     "desc_imagem": ""
 
 
@@ -187,7 +187,7 @@ var questions = [{
     "option3": "Salar de Uyuni",
     "option4": "Desierto del Sahara",
     "answer":"1",
-    "imagem":"desertoatacama.jpg",
+    "imagem": "img/desertoatacama.jpg",
     "desc_imagem": ""
 
 
@@ -198,7 +198,7 @@ var questions = [{
     "option3": "La dama de la Alegría",
     "option4": "La dama de la Muerte",
     "answer":"4",
-    "imagem":"damaa.jpg",
+    "imagem": "img/damaa.jpg",
     "desc_imagem": ""
 }, {
     "question": "¿Quién es el creador de Mafalda?",
@@ -207,7 +207,7 @@ var questions = [{
     "option3": "Laerte",
     "option4": "Ricardo Liniers",
     "answer":"1",
-    "imagem":"quino.jpg",
+    "imagem": "img/quino.jpg",
     "desc_imagem": ""
 
 }, {
@@ -217,7 +217,7 @@ var questions = [{
     "option3": "Madrid,España",
     "option4": "Santiago, Chile",
     "answer":"3",
-    "imagem":"Prado.jpg",
+    "imagem": "img/Prado.jpg",
     "desc_imagem": ""
 
 }, {
@@ -227,7 +227,7 @@ var questions = [{
     "option3": "una bebida",
     "option4": "una fruta",
     "answer":"1",
-    "imagem":"arepa.jpg",
+    "imagem": "img/arepa.jpg",
     "desc_imagem": ""
 
 
@@ -238,7 +238,7 @@ var questions = [{
     "option3": "1829",
     "option4": "1820",
     "answer":"2",
-     "imagem":"pre.jpg",
+     "imagem": "img/pre.jpg",
     "desc_imagem": ""
 
 }, {
@@ -249,7 +249,7 @@ var questions = [{
     "option3": "Bolivia",
     "option4": "Venezuela",
     "answer":"2",
-     "imagem":"puchi.jpg",
+     "imagem": "img/puchi.jpg",
     "desc_imagem": ""
 }, {
 
@@ -259,7 +259,7 @@ var questions = [{
     "option3": "Durante 30 días",
     "option4": "Durante 40 días",
     "answer":"4",
-    "imagem":"carnavaluru.jpg",
+    "imagem": "img/carnavaluru.jpg",
     "desc_imagem": ""
 
 
@@ -271,7 +271,7 @@ var questions = [{
     "option3": "El mate",
     "option4": "La leche",
     "answer":"3",
-    "imagem":"mate.jpg",
+    "imagem": "img/mate.jpg",
     "desc_imagem": ""
 
 }, {
@@ -282,7 +282,7 @@ var questions = [{
     "option3": "Atlantis ",
     "option4": "Piriápolis",
     "answer":"1",
-    "imagem":"puntadeleste.jpg",
+    "imagem": "img/puntadeleste.jpg",
     "desc_imagem": ""
 
 }, {
@@ -293,7 +293,7 @@ var questions = [{
     "option3": "Maná Gardel",
     "option4": "Mano Chao",
     "answer":"1",
-    "imagem":"gardel.jpg",
+    "imagem": "img/gardel.jpg",
     "desc_imagem": ""
 
 }, {
@@ -304,7 +304,7 @@ var questions = [{
     "option3": "México",
     "option4": "Argentina",
     "answer":"4",
-     "imagem":"Alfajor.jpg",
+     "imagem": "img/Alfajor.jpg",
     "desc_imagem": ""
 
 }, {
@@ -315,7 +315,7 @@ var questions = [{
     "option3": "La Paz",
     "option4": "Montevideo",
     "answer":"2",
-    "imagem":"rosario.jpg",
+    "imagem": "img/rosario.jpg",
     "desc_imagem": ""
 
 
@@ -327,7 +327,7 @@ var questions = [{
     "option3": "Mario Vargas Llosa",
     "option4": "Mario Benedetti Borges",
     "answer":"1",
-    "imagem":"borges.jpg",
+    "imagem": "img/borges.jpg",
     "desc_imagem": ""
     
 }, {
@@ -338,7 +338,7 @@ var questions = [{
     "option3": "Una leyenda",
     "option4": "Una novela",
     "answer":"3",
-    "imagem":"bad.jpg",
+    "imagem": "img/bad.jpg",
     "desc_imagem": ""
 
 }, {
@@ -349,7 +349,7 @@ var questions = [{
     "option3": "Paraguay",
     "option4": "Uruguay",
     "answer":"2",
-    "imagem":"chocome.jpg",
+    "imagem": "img/chocome.jpg",
     "desc_imagem": ""
 
 }, {
@@ -360,7 +360,7 @@ var questions = [{
     "option3": "Grande pedra",
     "option4": "Grande mar",
     "answer":"4",
-    "imagem":"mar.jpg",
+    "imagem": "img/mar.jpg",
     "desc_imagem": ""
  
 }, {
@@ -371,7 +371,7 @@ var questions = [{
     "option3": "29 del octubre",
     "option4": "12 del abril",
     "answer":"2",
-    "imagem":"ninho.jpg",
+    "imagem": "img/ninho.jpg",
     "desc_imagem": ""
  }, {
 
@@ -381,7 +381,7 @@ var questions = [{
     "option3": "Ambato",
     "option4": "Baños",
     "answer":"1",
-    "imagem":"quito.jpg",
+    "imagem": "img/quito.jpg",
     "desc_imagem": ""
  
 }, {
@@ -392,7 +392,7 @@ var questions = [{
     "option3": "óculos",
     "option4": "gravata",
     "answer":"3",
-    "imagem":"ocu.jpg",
+    "imagem": "img/ocu.jpg",
     "desc_imagem": ""
  
 }, {
@@ -403,7 +403,7 @@ var questions = [{
     "option3": "Rayuela",
     "option4": "Travesuras de la niña mala",
     "answer":"1",
-    "imagem":"Quijote.jpg",
+    "imagem": "img/Quijote.jpg",
     "desc_imagem": ""
  
 }, {
@@ -414,7 +414,7 @@ var questions = [{
     "option3": "Es argentino",
     "option4": "Es chileno",
     "answer":"4",
-    "imagem":"chileno.jpg",
+    "imagem": "img/chileno.jpg",
     "desc_imagem": ""
  
 }, {
@@ -425,7 +425,7 @@ var questions = [{
     "option3": "El Fusca",
     "option4": "Avión ",
     "answer":"3",
-    "imagem":"fusca.jpg",
+    "imagem": "img/fusca.jpg",
     "desc_imagem": ""
  
 }, {
@@ -436,7 +436,7 @@ var questions = [{
     "option3": "Catalán, gallego y quechua",
     "option4": "Catalán, gallego y aymará",
     "answer":"1",
-     "imagem":"catalan.jpg",
+     "imagem": "img/catalan.jpg",
     "desc_imagem": ""
 
 }, {
@@ -447,7 +447,7 @@ var questions = [{
     "option3": "Quito, en Ecuador",
     "option4": "Caracas, en Venezuela",
     "answer":"2",
-     "imagem":"casaaa.jpg",
+     "imagem": "img/casaaa.jpg",
     "desc_imagem": ""
 
 
@@ -459,7 +459,7 @@ var questions = [{
     "option3": "una planta",
     "option4": "un animal",
     "answer":"2",
-     "imagem":"chimbarozo.jpg",
+     "imagem": "img/chimbarozo.jpg",
     "desc_imagem": ""
 
 }, {
@@ -470,7 +470,7 @@ var questions = [{
     "option3": "Córdoba",
     "option4": "Buenos Aires",
     "answer":"1",
-    "imagem":"ushuaia.jpg",
+    "imagem": "img/ushuaia.jpg",
     "desc_imagem": ""
 
 }, {
@@ -481,7 +481,7 @@ var questions = [{
     "option3": "Un famoso rey catalán",
     "option4": "Un famoso actor catalán",
     "answer":"2",
-    "imagem":"igrejasagrada.jpg",
+    "imagem": "img/igrejasagrada.jpg",
     "desc_imagem": ""
 
 }, {
@@ -492,7 +492,7 @@ var questions = [{
     "option3": "Dulce María",
     "option4": "Beatriz Sarlo",
     "answer":"1",
-     "imagem":"zamudio.jpg",
+     "imagem": "img/zamudio.jpg",
     "desc_imagem": ""
 
 }, {
@@ -503,7 +503,7 @@ var questions = [{
     "option3": "Paraguay",
     "option4": "Bolivia",
     "answer":"4",
-    "imagem":"salarYU.jpg",
+    "imagem": "img/salarYU.jpg",
     "desc_imagem": ""
 
 }, {
@@ -514,7 +514,7 @@ var questions = [{
     "option3":"Perú",
     "option4":"Ecuador",
     "answer":"2",
-    "imagem":"catedralsal.jpg",
+    "imagem": "img/catedralsal.jpg",
     "desc_imagem": ""
 
 
@@ -526,7 +526,7 @@ var questions = [{
     "option3": "Volver a los quince",
     "option4": "Volver a los doce",
     "answer":"1",
-    "imagem":"Mercedes.jpg",
+    "imagem": "img/Mercedes.jpg",
     "desc_imagem": ""
 
 }, {
@@ -537,7 +537,7 @@ var questions = [{
     "option3": "Volver",
     "option4": " Como agua para chocolate",
     "answer":"3",
-    "imagem":"volve.jpg",
+    "imagem": "img/volve.jpg",
     "desc_imagem": ""
 
 }, {
@@ -548,7 +548,7 @@ var questions = [{
     "option3": "Mexicana",
     "option4": "Uruguaya",
     "answer":"2",
-     "imagem":"penelope.jpg",
+     "imagem": "img/penelope.jpg",
     "desc_imagem": ""
 
 
@@ -561,7 +561,7 @@ var questions = [{
     "option3": "Gael García Bernal",
     "option4": "Javier Bardem",
     "answer":"1",
-    "imagem":"antonio.jpg",
+    "imagem": "img/antonio.jpg",
     "desc_imagem": ""
 
 
@@ -573,7 +573,7 @@ var questions = [{
     "option3": "Santiago, en Chile",
     "option4": "Lima, en Perú",
     "answer":"2",
-     "imagem":"museodel.jpg",
+     "imagem": "img/museodel.jpg",
     "desc_imagem": ""
 
 }, {
@@ -584,7 +584,7 @@ var questions = [{
     "option3": "Francisco Goya",
     "option4": "Salvador Dalí",
     "answer":"4",
-     "imagem":"dalisalv.jpg",
+     "imagem": "img/dalisalv.jpg",
     "desc_imagem": ""
 
 }, {
@@ -595,7 +595,7 @@ var questions = [{
     "option3": "Chichén Itzá",
     "option4": "Éfeso ",
     "answer":"3",
-     "imagem":"itza.jpg",
+     "imagem": "img/itza.jpg",
     "desc_imagem": ""
 
 }, {
@@ -606,7 +606,7 @@ var questions = [{
     "option3": "El Rey Don Juan Carlos II",
     "option4": "El Rey Don Juan Carlos III",
     "answer":"1",
-    "imagem":"sex.jpg",
+    "imagem": "img/sex.jpg",
     "desc_imagem": ""
 
 
@@ -618,7 +618,7 @@ var questions = [{
     "option3": "Una cantante mexicana",
     "option4": "Una escritora mexicana",
     "answer":"1",
-    "imagem":"pinturafidra.jpg",
+    "imagem": "img/pinturafidra.jpg",
     "desc_imagem": ""
 
 
@@ -630,7 +630,7 @@ var questions = [{
     "option3": "bolso",
     "option4": "zapato",
     "answer":"1",
-    "imagem":"chiapas.jpg",
+    "imagem": "img/chiapas.jpg",
     "desc_imagem": ""
 
  }, { 
@@ -641,7 +641,7 @@ var questions = [{
     "option3": "saia",
     "option4": "camiseta",
     "answer":"3",
-    "imagem":"saiona.jpg",
+    "imagem": "img/saiona.jpg",
     "desc_imagem": ""
 
 
