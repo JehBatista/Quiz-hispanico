@@ -31,29 +31,40 @@ function loadQuestion(questionIndex) {
 		ele[i].checked = false;
 	
 	// troca a imagem
+	
+
 	var img = document.getElementById('img-dica');
 	img.src = q.imagem || 'todo.jpg';
+	
+
 	// img.alt = questions[currentQuestion].desc_imagem;
 	
 	// esconde
 	var ct_img = document.getElementById('ct-dica');
 	ct_img.style.display = 'none';
+
 }
 
 function isQuestionChecked() {
 	var selectedOption= document.querySelector('input[type=radio]:checked');
 	if (selectedOption == null) {
-		alert('Por favor selecione sua resposta!');
+		alert('Por favor, elija una respusta ');
 		return;
 	}
-	var valorSelecionado = selectedOption.value;
+	
+
+
+     var valorSelecionado = selectedOption.value;
 	if (questions[lista_sorteados[currentQuestion]].answer == valorSelecionado) {
 		alert('Respuesta correcta');
+
 
 		score += score_pergunta_atual;
 		
 		if ((currentQuestion + 1) >= questions.length) {
 			alert('FIM!');
+		
+
 		} else {
 			currentQuestion++;
 			loadQuestion(lista_sorteados[currentQuestion]);
@@ -64,9 +75,14 @@ function isQuestionChecked() {
 		
 		alert('¡Intente otra vez!');
 
+
 		// exibe a imagem que eh a dica
+		
+
 		var ct_img = document.getElementById('ct-dica');
 		ct_img.style.display = 'block';
+
+		
 
 		if (score_pergunta_atual == 10) {
 			document.getElementById('pontuacao-pergunta-atual').textContent = 5;
@@ -78,6 +94,7 @@ function isQuestionChecked() {
 			document.getElementById('pontuacao-pergunta-atual').textContent = 1;
 			score_pergunta_atual = 1;
 		}
+		
 	}
 }
 
